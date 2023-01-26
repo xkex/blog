@@ -1,0 +1,4 @@
+baseURL = 'http://xkex.github.io/'
+languageCode = 'en-us'
+title = 'welcome into my world'
+theme = "poison"

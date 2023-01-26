@@ -1,0 +1,4 @@
+[submodule "xkexblog/public"]
+	path = xkexblog/public
+	url = https://github.com/xkex/xkex.github.io
+	branch = main
